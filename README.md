@@ -1,11 +1,12 @@
 # Data Structures
 This repository includes all the data structures
 
+Linked List	->  
+Each node consists of two parts: data & pointer to the next node
+
 Time complexity
 
 Arrays	
-
-Linked List	
 
 Single Linked list	
 
