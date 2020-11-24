@@ -6,7 +6,7 @@ Each node consists of two parts: data & pointer to the next node
 
 Time complexity
 
-Arrays	
+Arrays -> Basic operations on arrays
 
 Single Linked list	
 
@@ -42,6 +42,6 @@ Segment Tree
 
 Trie	
 
-Matrix	
+Matrix
 
 Dictionary
