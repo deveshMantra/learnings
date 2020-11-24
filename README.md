@@ -43,3 +43,5 @@ Segment Tree
 Trie	
 
 Matrix	
+
+Dictionary
