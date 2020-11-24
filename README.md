@@ -44,5 +44,4 @@ Trie
 
 Matrix
 
-
-	
+Dictionary
