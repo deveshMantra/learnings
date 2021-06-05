@@ -36,8 +36,6 @@ Heap
 
 Hash	
 
-Dynamic Programming	
-
 Segment Tree	
 
 Trie	
@@ -45,3 +43,7 @@ Trie
 Matrix
 
 Dictionary
+
+Dynamic Programming	
+
+Dynamic programming variants
