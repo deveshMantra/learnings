@@ -1,49 +1,53 @@
-# Data Structures
-This repository includes all the data structures
+# Learnings
+This repository includes all the data structures and design patterns
 
-Linked List	->  
-Each node consists of two parts: data & pointer to the next node
+
+# Design Patterns
+* Singleton 
+
+
+# Data Structures
+* Linked List-> Each node consists of two parts: data & pointer to the next node
+* Single Linked list	
+* Circular linked list	
+* Doubly linked list	
+
 
 Time complexity
 
-Arrays -> Basic operations on arrays
+* Arrays -> Basic operations on arrays
 
-Single Linked list	
 
-Circular linked list	
+* Stacks	
 
-Doubly linked list	
+* Queue	
 
-Stacks	
+* Tree	
 
-Queue	
+* Binary search tree	
 
-Tree	
+* Binary Tree	
 
-Binary search tree	
+* AVL Tree	
 
-Binary Tree	
+* B Tree	
 
-AVL Tree	
+* B+ Tree	
 
-B Tree	
+* Graph	
 
-B+ Tree	
+* Heap	
 
-Graph	
+* Hash	
 
-Heap	
+* Segment Tree	
 
-Hash	
+* Trie	
 
-Segment Tree	
+* Matrix
 
-Trie	
+* Dictionary
 
-Matrix
+* Dynamic Programming	
 
-Dictionary
-
-Dynamic Programming	
-
-Dynamic programming variants
+* Dynamic programming variants
