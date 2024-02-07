@@ -36,7 +36,8 @@ class postGresSql {
 const dbInstance = new FactoryPattern();
 const mongoDbInstance = dbInstance.create('MONGO_DB');
 const postGresSqlInstance = dbInstance.create('POST_GRES_SQL');
-mongoDbInstance.getAllData();
-postGresSqlInstance.getAllData();
+
+mongoDbInstance.getAllData(); // i will get from mongodb url mongoDbURL
+postGresSqlInstance.getAllData(); // i will get from postgressql with url postGresURL
 
 
